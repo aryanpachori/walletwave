@@ -1,4 +1,4 @@
-import { Card } from "@repo/ui/card";
+/*import { Card } from "@repo/ui/card";
 import { getServerSession } from "next-auth";
 import React from "react";
 import { authOptions } from "../app/lib/auth";
@@ -60,3 +60,4 @@ export const P2pTransactions = async ({
     </Card>
   );
 };
+*/
